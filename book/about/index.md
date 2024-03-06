@@ -21,7 +21,6 @@
 
 ## Students
 
-### 양필성
-
-- 202121010
-- lal4995@naver.com
+### 조세현
+- 인공지능공학과 202321017
+- E-Mail: [202321017@chu.ac.kr](mailto:202321017@chu.ac.kr)
